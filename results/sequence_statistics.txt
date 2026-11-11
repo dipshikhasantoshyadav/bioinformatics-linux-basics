@@ -1,0 +1,4 @@
+DNA Sequence Statistics
+------------------------
+Sequence length: 40
+GC content: 50.0 %
