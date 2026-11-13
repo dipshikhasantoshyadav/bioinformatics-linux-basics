@@ -1,0 +1,7 @@
+sample,condition
+Series1_NHBE_Mock_1,Control
+Series1_NHBE_Mock_2,Control
+Series1_NHBE_Mock_3,Control
+Series1_NHBE_SARS-CoV-2_1,Infected
+Series1_NHBE_SARS-CoV-2_2,Infected
+Series1_NHBE_SARS-CoV-2_3,Infected
